@@ -538,9 +538,4 @@ a {
         padding: 1.5rem;
     }
 
-    .blog-meta {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 0.5rem;
-    }
 }
