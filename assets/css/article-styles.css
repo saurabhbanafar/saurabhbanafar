@@ -828,10 +828,6 @@ a {
         gap: 0.5rem;
     }
 
-    .nav-text {
-        display: none;
-    }
-
     .article {
         padding: 2rem 0 4rem;
     }
