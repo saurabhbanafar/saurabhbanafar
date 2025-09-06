@@ -1502,10 +1502,11 @@ section h2::after {
     }
 
     .footer-brand {
-        text-align: left;
+        text-align: center;
     }
 
     .animation {
         display: none;
     }
+
 }
