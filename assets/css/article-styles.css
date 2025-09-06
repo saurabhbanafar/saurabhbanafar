@@ -240,7 +240,7 @@ a {
     /* margin-bottom: 1.5rem; */
     flex-wrap: wrap;
     flex-direction: row;
-    margin-left: 0.5rem;
+    margin-left: 1rem;
     margin-right: 1rem;
     margin-top: 1rem;
 }
@@ -274,9 +274,6 @@ a {
     font-weight: 700;
     color: var(--primary-purple);
     margin-bottom: 1.5rem;
-    /* background: var(--gradient-purple);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent; */
     background-clip: text;
 }
 
