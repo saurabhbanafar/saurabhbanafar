@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-
-Sitemap: https://saurabh-banafar.github.io/sitemap.xml
+Sitemap: https://saurabhbanafar.com/my-sitemaps.xml

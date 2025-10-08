@@ -1,0 +1,7 @@
+Copyright (c) 2025 Saurabh Singh Banafar
+
+All rights reserved.
+
+This code is licensed for viewing only. 
+Copying, modification, distribution, or use of this code 
+is strictly prohibited without explicit permission from the author.
